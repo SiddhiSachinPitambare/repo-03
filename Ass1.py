@@ -1,0 +1,12 @@
+'''id = input("Enter employee id: ")
+name = input("Enter employee name: ")
+email = input("Enter employee email: ")
+contact = input("Enter employee contact: ")
+address = input("Enter employee address: ")
+dept = input("Enter employee department: ")
+print("Employee ID: ", id)
+print("Employee Name: ", name)
+print("Employee Email: ", email)
+print("Employee Contact: ", contact)
+print("Employee Address: ", address)
+print("Employee Department: ", dept)'''
